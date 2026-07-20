@@ -1,6 +1,6 @@
-gradio
+
+gradio==5.38.0
 google-genai
 pdfplumber
 gtts
-SpeechRecognition
-pydub
+
