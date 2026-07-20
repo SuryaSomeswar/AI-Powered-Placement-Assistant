@@ -1,4 +1,3 @@
-```python
 import os
 import re
 import gradio as gr
@@ -306,5 +305,5 @@ if __name__ == "__main__":
             )
         )
     )
-```
+
 
